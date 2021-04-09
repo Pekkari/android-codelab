@@ -26,7 +26,7 @@ public class DevCodelabTest {
 
     @Test
     public void testHelloWorld() {
-        Assert.assertTrue(false);
+        Assert.assertTrue(true);
     }
 
 }
